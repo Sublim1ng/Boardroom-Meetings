@@ -1,4 +1,4 @@
-# Conflict in Corporate Board Room Discussions 
+# Examing Conflict in Corporate Board Room Discussions 
 Capstone Project <br>
 Ningyu Han
 ## Background
